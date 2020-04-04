@@ -1,0 +1,41 @@
+
+.container
+{
+    font-size: 20px;
+    min-height: 1180px;
+    width: 100%;
+    background: rgba(243, 240, 240, 0.788);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.item1
+{
+    background: lightskyblue;
+
+}
+.item2
+{
+    background: rgb(180, 192, 199);
+    
+}
+.item3
+{
+    background: limegreen;
+    
+}
+.item4
+{
+    background: rgb(135, 250, 221);
+    
+}
+.item5
+{
+    background: rgb(135, 250, 221);
+    
+}
